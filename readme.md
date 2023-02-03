@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Devdut Sutradhar</h1>
 <h3 align="center">A beginner full-Stack developer from India</h3>
 
-<img align="right" alt="coding gif" width="400" src="https://github.com/Devdut001/Devdut001/blob/main/dribble.gif">
+<img align="right" alt="coding gif" width="390" src="https://github.com/Devdut001/Devdut001/blob/main/dribble.gif">
 
 
 - 🔭 I’m currently persuing B.Tech **in Computer Science Engineering.**
