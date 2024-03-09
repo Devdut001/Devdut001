@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Technologies used in EVs, ICs, Computers and smartphones.**
 
-- 📫 How to reach me **devdut011@outlook.com**
+- 📫 How to reach me **wizardentrance01@outlook.com**
 
 - ⚡ Fun fact **I am a very calm and focused person to approach.**
 
