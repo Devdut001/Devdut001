@@ -11,7 +11,7 @@
 
 ### Technical Skills
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+**Languages:** Python · SQL · Java · Javascript · R
 
 **ML & Data Science:** Scikit-learn · Pandas · NumPy · Regression · Classification · Clustering · Feature Engineering · EDA
 
