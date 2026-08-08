@@ -23,22 +23,27 @@ AI/ML Engineer with **more than 2 years of practical experience** building machi
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,java" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 </p>
 
-### Machine Learning & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" />
-</p>
-
-### Backend & Frontend
+### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,react" />
 </p>
 
-### Databases & Tools
+### Data & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,jupyter" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter" />
 </p>
 
 <p align="center">
