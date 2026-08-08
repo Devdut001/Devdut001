@@ -9,26 +9,26 @@
 - 📫 Reach me at **devdutsutradhar46955@gmail.com**
 - ⚡ Fun fact: I'm a calm, focused problem-solver who enjoys turning messy data into useful insights
 
-### 🧰 Technical Skills
+### Technical Skills
 
 **Languages & Databases:**
-<p><img src="https://skillicons.dev/icons?i=py,java,mysql,sqlite" /></p>
+Python · Java · MySQL · Javascript · Sqllite · R · HTML · CSS
 
 **ML & Data Science:**
 Scikit-learn · Pandas · NumPy · Regression · Classification · Clustering · Feature Engineering · EDA
 
-**Visualization:** Matplotlib · Seaborn
+**Visualization:** 
+Matplotlib · Seaborn
 
 **Deployment & Web:**
-<p><img src="https://skillicons.dev/icons?i=fastapi,react" /></p>
+Fastapi · React
 
 **Tools:**
-<p><img src="https://skillicons.dev/icons?i=git" /></p>
-Jupyter Notebook · Google Colab
+Jupyter Notebook · Google Colab · Git
 
-### 🎓 Education
+### Education
 **B.Tech in Computer Science Engineering** — (2020–2024) · GPA: 8.5/10
-### 🌐 Connect with me
+### Connect with me
 <p>
 <a href="https://www.linkedin.com/in/devdut-sutradhar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devdut sutradhar" height="30" width="40" /></a>
 <a href="https://twitter.com/mr_devdut" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_devdut" height="30" width="40" /></a>
