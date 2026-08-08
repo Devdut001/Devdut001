@@ -1,17 +1,14 @@
-<h1 align="center">Hi, I'm Devdut Sutradhar 👋</h1>
+<h1 align="center">Hi, I'm Devdut Sutradhar</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Python & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://github.com/Devdut001/Devdut001/blob/main/dribble.gif" alt="coding gif" width="390" align="right">
+  <img src="https://github.com/Devdut001/Devdut001/blob/main/profile.gif" alt="coding gif" width="390" align="right">
 </p>
 
-- 🔭 I'm currently working as a **Technical Research Analyst** at Stolwort Educare, building and evaluating ML models
 - 🌱 Focused on **Machine Learning, Data Science, and end-to-end model deployment**
 - 💡 I build recommendation systems, regression models, and clustering solutions using Python & Scikit-learn
 - 📫 Reach me at **devdutsutradhar46955@gmail.com**
 - ⚡ Fun fact: I'm a calm, focused problem-solver who enjoys turning messy data into useful insights
-
-<br>
 
 ### 🧰 Technical Skills
 
@@ -27,23 +24,8 @@
 
 **Tools:** Jupyter Notebook · Git · Google Colab
 
-<br>
-
-### 🚀 Featured Projects
-
-**[Vehicle Recommendation System](#)**
-End-to-end ML deployment — recommendation engine with a full preprocessing pipeline (encoding, scaling, missing-value handling), served via FastAPI for real-time inference.
-
-**[Customer Segmentation using Unsupervised Learning](#)**
-K-Means clustering on behavioral & financial data; used Elbow Method and Silhouette Score to determine optimal clusters for targeted personalization.
-
-**[House Price Prediction System](#)**
-Regression modeling comparing Linear Regression, Ridge, and Decision Tree; evaluated with MAE, RMSE, and R².
-
-<br>
-
 ### 🎓 Education
-**B.Tech in Computer Science Engineering** — Gargi Memorial Institute of Technology (2020–2024) · GPA: 8.5/10
+**B.Tech in Computer Science Engineering** (2020–2024) · GPA: 8.5/10
 
 <br>
 
