@@ -1,90 +1,196 @@
-![logo](https://github.com/Devdut001/Devdut001/blob/main/profile.gif)
-<h1 align="center">Hi, I'm Devdut Sutradhar</h1>
-<h3 align="center">A beginner full-Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Devdut Sutradhar</h1>
 
-<img align="right" alt="coding gif" width="390" src="https://github.com/Devdut001/Devdut001/blob/main/dribble.gif">
+<h3 align="center">
+AI/ML Engineer | Python Developer | Machine Learning & Data Science
+</h3>
 
-
-- 🔭 I’m currently persuing B.Tech **in Computer Science Engineering.**
-
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 🤝 I’m looking for help with **beginnner developers to grow together.**
-
-- 💬 Ask me about **Technologies used in EVs, ICs, Computers and smartphones.**
-
-- 📫 How to reach me **wizardentrance01@outlook.com**
-
-- ⚡ Fun fact **I am a very calm and focused person to approach.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mr_devdut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_devdut" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/devdut-sutradhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devdut sutradhar" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/devdut.sutradhar.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devdut sutradhar" height="30" width="40" />
-</a>
-<a href="https://instagram.com/sturdy_fellow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sturdy_fellow" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/devdut001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devdut001" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="mailto:devdutsutradhar46955@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devdut-sutradhar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Devdut001">
+    <img src="https://img.shields.io/badge/GitHub-Devdut001-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
-    </a>
+---
+
+## 👨‍💻 About Me
+
+I'm an aspiring **AI/ML Engineer** with around **1 year of practical experience** building and deploying machine learning solutions using Python and modern data science tools.
+
+My work focuses on developing **end-to-end machine learning pipelines**, from data preprocessing and feature engineering to model evaluation and API-based deployment.
+
+I enjoy building intelligent systems that solve practical problems, particularly in:
+
+- 🤖 Machine Learning
+- 📊 Data Analysis & Predictive Analytics
+- 🚗 Recommendation Systems
+- 🧠 Supervised & Unsupervised Learning
+- ⚙️ ML Model Deployment
+- 🔬 Applied AI Research
+
+Currently, I'm focused on strengthening my skills in **Machine Learning, Data Science, backend development, and production-oriented AI systems**.
+
+---
+
+## 💼 Professional Experience
+
+### Technical Research Analyst — Stolwort Educare
+**March 2025 – Present | Kolkata, India**
+
+- Developed and evaluated machine learning models using **Scikit-learn**.
+- Improved prediction accuracy by approximately **15%** through model development and optimization.
+- Built structured ML workflows covering preprocessing, feature selection, training, and validation.
+- Performed data analysis using **Pandas and NumPy** to extract meaningful insights.
+- Designed **MySQL and SQLite databases** for structured datasets used in ML experimentation.
+- Worked collaboratively on AI-driven analytical solutions.
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 Vehicle Recommendation System
+
+**End-to-End Machine Learning Deployment**
+
+An intelligent recommendation engine designed to suggest vehicles based on user preferences.
+
+**Highlights:**
+- Built a recommendation pipeline for vehicle selection.
+- Implemented data preprocessing including encoding, scaling, and missing-value handling.
+- Developed similarity-based recommendation logic.
+- Deployed the trained model using **FastAPI**.
+- Exposed real-time inference through API endpoints.
+- Simulated an end-to-end production-oriented ML lifecycle.
+
+**Tech:**  
+`Python` `Pandas` `NumPy` `Scikit-learn` `FastAPI` `Machine Learning`
+
+---
+
+### 👥 Customer Segmentation
+
+**Unsupervised Machine Learning**
+
+A customer segmentation system designed to identify groups of users based on behavioral and financial characteristics.
+
+**Highlights:**
+- Implemented **K-Means clustering**.
+- Used the **Elbow Method** to estimate the optimal number of clusters.
+- Evaluated clustering quality using **Silhouette Score**.
+- Generated actionable insights for personalization and recommendation strategies.
+
+**Tech:**  
+`Python` `Pandas` `NumPy` `Scikit-learn` `K-Means` `Data Analysis`
+
+---
+
+### 🏠 House Price Prediction
+
+**Regression Modeling**
+
+A machine learning system for estimating property prices using structured datasets.
+
+**Highlights:**
+- Implemented multiple regression approaches.
+- Compared:
+  - Linear Regression
+  - Ridge Regression
+  - Decision Tree Regression
+- Evaluated models using:
+  - MAE
+  - RMSE
+  - R²
+- Applied cross-validation for model performance comparison and optimization.
+
+**Tech:**  
+`Python` `Pandas` `NumPy` `Scikit-learn` `Regression` `Cross-Validation`
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdut001&show_icons=true&locale=en&layout=compact" alt="devdut001" /></p>
+### Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devdut001&show_icons=true&locale=en" alt="devdut001" /></p>
+**Core Areas**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devdut001&" alt="devdut001" /></p>
+`Regression` `Classification` `Clustering`  
+`Recommendation Systems` `Feature Engineering`  
+`Data Cleaning` `EDA` `Model Evaluation`  
+`Cross-Validation` `Model Optimization`  
+`Supervised Learning` `Unsupervised Learning`
+
+### Backend & Deployment
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science Engineering**  
+Gargi Memorial Institute of Technology  
+**2020 – 2024**
+
+**GPA: 8.5 / 10**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:devdutsutradhar46955@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devdutsutradhar46955%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devdut-sutradhar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Devdut%20Sutradhar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devdut001&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdut001&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems, one project at a time.</i>
+</p>
