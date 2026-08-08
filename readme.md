@@ -9,26 +9,22 @@
 - 📫 Reach me at **devdutsutradhar46955@gmail.com**
 - ⚡ Fun fact: I'm a calm, focused problem-solver who enjoys turning messy data into useful insights
 
-### Technical Skills
+### 🧰 Technical Skills
 
-**Languages:** Python · SQL · Java · Javascript · R
-<p>
-<a href="https://images.seeklogo.com/logo-png/20/2/python-logo-png_seeklogo-207405.png"><img align="center" src="" alt="Python" height="30" width="40" /></a>
-<a href="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png"><img align="center" src="" alt="SQL" height="30" width="40" /></a>
-<a href="https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png"><img align="center" src="" alt="Java" height="30" width="40" /></a>
-<a href="https://icon2.cleanpng.com/20190129/jba/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.webp"><img align="center" src="" alt="Javascript" height="30" width="40" /></a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/330px-R_logo.svg.png"><img align="center" src="" alt="R" height="30" width="40" /></a>
-</p>
+**Languages & Databases:**
+<p><img src="https://skillicons.dev/icons?i=py,java,mysql,sqlite" /></p>
 
-**ML & Data Science:** Scikit-learn · Pandas · NumPy · Regression · Classification · Clustering · Feature Engineering · EDA
+**ML & Data Science:**
+Scikit-learn · Pandas · NumPy · Regression · Classification · Clustering · Feature Engineering · EDA
 
 **Visualization:** Matplotlib · Seaborn
 
-**Deployment & Web:** FastAPI · React
+**Deployment & Web:**
+<p><img src="https://skillicons.dev/icons?i=fastapi,react" /></p>
 
-**Databases:** MySQL · SQLite
-
-**Tools:** Jupyter Notebook · Git · Google Colab
+**Tools:**
+<p><img src="https://skillicons.dev/icons?i=git" /></p>
+Jupyter Notebook · Google Colab
 
 ### 🎓 Education
 **B.Tech in Computer Science Engineering** — (2020–2024) · GPA: 8.5/10
